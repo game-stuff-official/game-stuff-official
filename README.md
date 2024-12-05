@@ -1,4 +1,8 @@
-## Hi there 👋
+# I am GameStuff
+## Projects
+### [Exampledustry](https://github.com/game-stuff-official/exampledustry)
+A mod designed around being a resource for inexperienced modders to find examples of code.
+The Github repository comes with a wiki that is being updated every day. The wiki is currently very wip. I am searching for experienced modders to peer review my wiki.
 
 <!--
 **game-stuff-official/game-stuff-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
