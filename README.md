@@ -1,4 +1,10 @@
 # I am GameStuff
+I am a guy on the internet doing stuff.
+
+**Favorite Quote**
+* “It's hard to win an argument with a smart person, but it's damn near impossible to win an argument with a stupid person.” - Bill Murray
+## Server
+You can find my discord server [Here](https://discord.gg/VQS7K9kgJ3). Its not a server for a specific topic, but it's just my own personal corner of the internet.
 ## Projects
 ### [Exampledustry](https://github.com/game-stuff-official/exampledustry)
 A mod designed around being a resource for inexperienced modders to find examples of code.
