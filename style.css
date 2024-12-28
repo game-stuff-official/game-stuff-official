@@ -1,0 +1,21 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(30, 30, 25);
+    color: white
+}
+a {
+    color: blueviolet;
+}
+h1 a, h2 a, h3 a {
+    color: white;
+}
+div#carousel {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    /* height: 300px; */
+}
+iframe{
+    flex-grow: 1;
+    width: 300px;
+    height: 152px;
+}
